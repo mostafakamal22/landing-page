@@ -4,6 +4,14 @@
 
 By using `javascript` we can transform ordinary web pages into a **dynamically interactive webpage**.
 
+<h2>🚀 Demo</h2>
+
+[https://mostafakamal22.github.io/landing-page/](https://mostafakamal22.github.io/landing-page/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://mostafakamal22.github.io/img/projects/landing-page.webp" alt="project-screenshot" width="375" height="100%">
+
 ## Features :
 
 1. Build the navigation menu **dynamically**.

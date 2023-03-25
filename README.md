@@ -1,3 +1,4 @@
+![landing-page](https://socialify.git.ci/mostafakamal22/landing-page/image?description=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto)
 
 # Landing Page Project:
 
